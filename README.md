@@ -1,4 +1,3 @@
 # Odin
 Web
-This repository is currently for my web development projects.
-Count: 0
+This repository is currently for first web development project.
